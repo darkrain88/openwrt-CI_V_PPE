@@ -89,7 +89,7 @@ UPDATE_PACKAGE "luci-app-natmapt" "muink/luci-app-natmapt" "master"
 UPDATE_PACKAGE "open-app-filter" "destan19/OpenAppFilter" "master" "" "luci-app-appfilter oaf"
 UPDATE_PACKAGE "lucky" "gdy666/luci-app-lucky" "main"
 
-UPDATE_PACKAGE "small" "kenzok8/small" "master" "" " daed luci-app-daede"
+# UPDATE_PACKAGE "small" "kenzok8/small" "master" "" " daed luci-app-daede"
 
 
 #更新软件包版本
